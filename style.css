@@ -1,0 +1,24 @@
+html{
+    background-color: black;
+
+}
+img{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+h1{
+    color: white;
+    text-align: center;
+    text-transform: capitalize; 
+        font-family: "Yeseva One", serif;
+        font-weight: 400;
+        font-style: normal;
+      
+      
+}
+p{
+    color: white;
+    text-align: center;
+
+}
